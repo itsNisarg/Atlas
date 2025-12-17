@@ -8,8 +8,13 @@ This project analyzes the game of ATLAS using complex network theory and applies
   - `countries.csv` — Processed country data for network construction
   - `cities.csv` — Processed city data for network construction
   - `scrap_data.ipynb` — Notebook for scraping and processing raw data
-- `code/networks/`
-  - `network.ipynb` — Jupyter notebook for building and visualizing ATLAS networks
+- `code/`
+  - `networks/`
+    - `create_networks.ipynb` — Jupyter notebook to build networks from the processed CSVs
+    - `dot/` — exported Graphviz DOT files (cities, countries, combined networks)
+    - `graphml/` — exported GraphML files for interoperability with graph tools
+  - `visualizations/`
+    - `create_plots.ipynb` — Notebook to generate visualizations and analysis plots
 
 ## Goals
 
@@ -23,13 +28,14 @@ This project analyzes the game of ATLAS using complex network theory and applies
 - pandas
 - networkx
 - matplotlib
-- pygraphviz (for hierarchical layouts)
-- Jupyter Notebook
+- pygraphviz (optional, used for hierarchical/dot layouts)
+- jupyterlab / notebook
 
 ## Usage
 
-1. Run `data/scrap_data.ipynb` to generate the latest `countries.csv` and `cities.csv`.
-2. Open and run `code/networks/network.ipynb` to build, visualize, and analyze the ATLAS networks.
+1. Run `data/scrap_data.ipynb` (or open it in Jupyter) to regenerate or update `countries.csv` and `cities.csv`.
+2. Open and run `code/networks/create_networks.ipynb` to build the networks. The notebook exports DOT files to `code/networks/dot/` and GraphML files to `code/networks/graphml/`.
+3. Open and run `code/visualizations/create_plots.ipynb` to produce plots and visual summaries of the networks.
 
 ## About ATLAS
 
