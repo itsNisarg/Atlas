@@ -1,0 +1,501 @@
+City,StartsWith,EndsWith
+Shanghai,s,i
+Beijing,b,g
+Shenzhen,s,n
+Guangzhou,g,u
+Kinshasa,k,a
+Istanbul,i,l
+Lagos,l,s
+Ho Chi Minh City,h,y
+Chengdu,c,u
+Lahore,l,e
+Mumbai,m,i
+São Paulo,s,o
+Mexico City,m,y
+Karachi,k,i
+Tianjin,t,n
+Delhi,d,i
+Wuhan,w,n
+Moscow,m,w
+Dhaka,d,a
+Seoul,s,l
+Tokyo,t,o
+Dongguan,d,n
+Cairo,c,o
+Xi’an,x,n
+Johannesburg,j,g
+Nanjing,n,g
+Hangzhou,h,u
+Foshan,f,n
+London,l,n
+New York City,n,y
+Jakarta,j,a
+Bengaluru,b,u
+Hanoi,h,i
+Taipei,t,i
+Lima,l,a
+Bogotá,b,á
+Chongqing,c,g
+Hong Kong,h,g
+Baghdad,b,d
+Qingdao,q,o
+Tehran,t,n
+Shenyang,s,g
+Hyderabad,h,d
+Rio de Janeiro,r,o
+Suzhou,s,u
+Ahmedabad,a,d
+Abidjan,a,n
+Singapore,s,e
+Sydney,s,y
+Dar es Salaam,d,m
+Saint Petersburg,s,g
+Melbourne,m,e
+Alexandria,a,a
+Harbin,h,n
+Bangkok,b,k
+Hefei,h,i
+Dalian,d,n
+Kano,k,o
+Santiago,s,o
+Cape Town,c,n
+Peshawar,p,r
+Changchun,c,n
+Jeddah,j,h
+Chennai,c,i
+Kolkata,k,a
+Xiamen,x,n
+Surat,s,t
+Yangon,y,n
+Bao'an,b,n
+Kabul,k,l
+Nairobi,n,i
+Wuxi,w,i
+Giza,g,a
+Jinan,j,n
+Taiyuan,t,n
+Zhengzhou,z,u
+Bamako,b,o
+Riyadh,r,h
+New Taipei City,n,y
+New Territories,n,s
+Shijiazhuang,s,g
+Chattogram,c,m
+Addis Ababa,a,a
+Kunming,k,g
+Zhongshan,z,n
+Nanning,n,g
+Shantou,s,u
+Los Angeles,l,s
+Faisalabad,f,d
+Dubai,d,i
+Yokohama,y,a
+Fuzhou,f,u
+Ningbo,n,o
+Casablanca,c,a
+Ibadan,i,n
+Puyang,p,g
+Ankara,a,a
+Shiyan,s,n
+Berlin,b,n
+Tangshan,t,n
+Rawalpindi,r,i
+Lüliang,l,g
+Busan,b,n
+Durban,d,n
+Changzhou,c,u
+Madrid,m,d
+Pyongyang,p,g
+Zibo,z,o
+Pune,p,e
+Bursa,b,a
+Changsha,c,a
+Quezon City,q,y
+Jaipur,j,r
+Incheon,i,n
+Guiyang,g,g
+Ürümqi,ü,i
+Lanzhou,l,u
+Caracas,c,s
+İzmir,i,r
+Huizhou,h,u
+Buenos Aires,b,s
+Surabaya,s,a
+Haikou,h,u
+Taichung,t,g
+Kanpur,k,r
+Kyiv,k,v
+Toronto,t,o
+Quito,q,o
+Brisbane,b,e
+Luanda,l,a
+Osaka,o,a
+Linyi,l,i
+Baoding,b,g
+Kaohsiung,k,g
+Brooklyn,b,n
+Guayaquil,g,l
+Belo Horizonte,b,e
+Salvador,s,r
+Abuja,a,a
+Gazipur,g,r
+Chicago,c,o
+Wenzhou,w,u
+Dakar,d,r
+Haiphong,h,g
+Yunfu,y,u
+Navi Mumbai,n,i
+Mogadishu,m,u
+Bekasi,b,i
+Kumasi,k,i
+Gujranwala,g,a
+Huai'an,h,n
+Lucknow,l,w
+Bandung,b,g
+Medan,m,n
+Ouagadougou,o,u
+Nagpur,n,r
+Fortaleza,f,a
+Cali,c,i
+Daegu,d,u
+Algiers,a,s
+Nanchang,n,g
+Hohhot,h,t
+Nagoya,n,a
+Rome,r,e
+Queens,q,s
+Houston,h,n
+Perth,p,h
+Mashhad,m,d
+Shaoxing,s,g
+Nantong,n,g
+Kowloon,k,n
+Yantai,y,i
+Lubumbashi,l,i
+Manaus,m,s
+Lusaka,l,a
+Brasília,b,a
+Zhuhai,z,i
+Santo Domingo,s,o
+Lomé,l,é
+Multan,m,n
+Havana,h,a
+Baotou,b,u
+Depok,d,k
+Paris,p,s
+Coimbatore,c,e
+Gaziantep,g,p
+Qingyang,q,g
+Port Harcourt,p,t
+Pretoria,p,a
+Córdoba,c,a
+Mbuji-Mayi,m,i
+Aleppo,a,o
+Kunshan,k,n
+Al Mawşil al Jadīdah,a,h
+Weifang,w,g
+Zunyi,z,i
+Al Başrah al Qadīmah,a,h
+La Paz,l,z
+Lianyungang,l,g
+Medellín,m,n
+Indore,i,e
+Brazzaville,b,e
+Tashkent,t,t
+Ganzhou,g,u
+Almaty,a,y
+Khartoum,k,m
+Sapporo,s,o
+Accra,a,a
+Curitiba,c,a
+Ordos,o,s
+Sanaa,s,a
+Conakry,c,y
+Tijuana,t,a
+Hyderabad,h,d
+Beirut,b,t
+Tangerang,t,g
+Jieyang,j,g
+Jilin,j,n
+Bucharest,b,t
+Camayenne,c,e
+Kakamega,k,a
+Nanchong,n,g
+Tainan,t,n
+Datong,d,g
+Kaduna,k,a
+Omdurman,o,n
+Davao,d,o
+Hamburg,h,g
+Thāne,t,e
+Iztapalapa,i,a
+Santa Cruz de la Sierra,s,a
+Vadodara,v,a
+Adana,a,a
+Nanyang,n,g
+Abu Dhabi,a,i
+Sharjah,s,h
+Bhopal,b,l
+Jiangmen,j,n
+Diyarbakır,d,r
+Benin City,b,y
+Jiangyin,j,n
+Fuyang,f,g
+Montréal,m,l
+Bayan Nur,b,r
+Maracaibo,m,o
+Chaozhou,c,u
+Minsk,m,k
+Budapest,b,t
+Qingyuan,q,n
+Tai’an,t,n
+Rasapūdipalem,r,m
+Pimpri-Chinchwad,p,d
+Caloocan City,c,y
+Warsaw,w,w
+Soweto,s,o
+Puebla,p,a
+Vienna,v,a
+Barcelona,b,a
+Patna,p,a
+Mosul,m,l
+Kallakurichi,k,i
+Kampala,k,a
+Xining,x,g
+Changshu,c,u
+Palembang,p,g
+Huainan,h,n
+Rabat,r,t
+Semarang,s,g
+Recife,r,e
+Phoenix,p,x
+Suzhou,s,u
+Ecatepec de Morelos,e,s
+Lu’an,l,n
+Valencia,v,a
+Ludhiana,l,a
+Yancheng,y,g
+Novosibirsk,n,k
+Erbil,e,l
+Fukuoka,f,a
+Taizhou,t,u
+Daqing,d,g
+Manila,m,a
+Wuhu,w,u
+Santiago de Querétaro,s,o
+Dazhou,d,u
+Yangzhou,y,u
+León de los Aldama,l,a
+Makkah,m,h
+Philadelphia,p,a
+Phnom Penh,p,h
+Guilin,g,n
+Damascus,d,s
+Quetta,q,a
+Zhaoqing,z,g
+Onitsha,o,a
+Mianyang,m,g
+Isfahan,i,n
+Wanzhou,w,u
+Harare,h,e
+Monrovia,m,a
+Putian,p,n
+Kawasaki,k,i
+Shangqiu,s,u
+Goiânia,g,a
+Auckland,a,d
+San Antonio,s,o
+Kobe,k,e
+Stockholm,s,m
+Ciudad Juárez,c,z
+Cần Thơ,c,ơ
+Khulna,k,a
+Belém,b,m
+Yekaterinburg,y,g
+Porto Alegre,p,e
+Yinchuan,y,n
+Manhattan,m,n
+Nashik,n,k
+Taizhou,t,u
+Asunción,a,n
+Yiwu,y,u
+Zapopan,z,n
+Daejeon,d,n
+Adelaide,a,e
+Quanzhou,q,u
+Madurai,m,i
+Jinhua,j,a
+Kyoto,k,o
+Cixi,c,i
+Changde,c,e
+Kuala Lumpur,k,r
+Kaifeng,k,g
+Anshan,a,n
+Karaj,k,j
+Kathmandu,k,u
+Baoji,b,i
+Suqian,s,n
+Liuzhou,l,u
+Tirunelveli,t,i
+Kayseri,k,i
+Kharkiv,k,v
+Konya,k,a
+Zhangjiagang,z,g
+Agra,a,a
+Tabriz,t,z
+Makassar,m,r
+Jinjiang,j,g
+Faridabad,f,d
+Bozhou,b,u
+Qujing,q,g
+South Tangerang,s,g
+San Diego,s,o
+Zhanjiang,z,g
+Fushun,f,n
+Gwangju,g,u
+Rājkot,r,t
+Luoyang,l,g
+Guadalajara,g,a
+The Bronx,t,x
+Huế,h,ế
+Guankou,g,u
+Milan,m,n
+Najafgarh,n,h
+N'Djamena,n,a
+Handan,h,n
+Bannu,b,u
+Yichang,y,g
+Antananarivo,a,o
+Heze,h,e
+Antalya,a,a
+Abobo,a,o
+Jamshedpur,j,r
+Douala,d,a
+Basrah,b,h
+Dallas,d,s
+Saitama,s,a
+Gorakhpur,g,r
+Niamey,n,y
+Liupanshui,l,i
+Taguig,t,g
+Maoming,m,g
+Calgary,c,y
+Tripoli,t,i
+Callao,c,o
+Madinah,m,h
+Yaoundé,y,é
+Qinzhou,q,u
+Luohe,l,e
+Xiangyang,x,g
+Yangjiang,y,g
+Yixing,y,g
+Pimpri,p,i
+Da Nang,d,g
+Amman,a,n
+Budta,b,a
+Belgrade,b,e
+Biên Hòa,b,a
+Montevideo,m,o
+Xuchang,x,g
+Kalyān,k,n
+Zigong,z,g
+Munich,m,h
+Nizhniy Novgorod,n,d
+Jepara,j,a
+Maputo,m,o
+Xuzhou,x,u
+Dammam,d,m
+Ra’s Bayrūt,r,t
+Neijiang,n,g
+Shiraz,s,z
+Heshan,h,n
+Dombivali,d,i
+Kananga,k,a
+Kazan,k,n
+Jining,j,g
+Barquisimeto,b,o
+Shubrā al Khaymah,s,h
+Port-au-Prince,p,e
+Xinyang,x,g
+Liaocheng,l,g
+Jinzhong,j,g
+Meerut,m,t
+Virār,v,r
+Nowrangapur,n,r
+Karbala,k,a
+Changzhi,c,i
+Tianshui,t,i
+Mombasa,m,a
+Mandalay,m,y
+Srinagar,s,r
+Barranquilla,b,a
+Chelyabinsk,c,k
+Mérida,m,a
+Hiroshima,h,a
+Santiago de los Caballeros,s,s
+Shymkent,s,t
+Weinan,w,n
+Ghāziābād,g,d
+Matola,m,a
+Dhanbad,d,d
+Hong Kong Island,h,d
+Fes,f,s
+Suwon,s,n
+Gustavo Adolfo Madero,g,o
+Nouakchott,n,t
+Kisangani,k,i
+Jiaxing,j,g
+Aurangabad,a,d
+Omsk,o,k
+Guarulhos,g,s
+Bandar Lampung,b,g
+Prague,p,e
+Varanasi,v,i
+Batam,b,m
+Jiujiang,j,g
+Samara,s,a
+Aba,a,a
+Amritsar,a,r
+Birmingham,b,m
+Copenhagen,c,n
+Sofia,s,a
+Anyang,a,g
+Luohu District,l,t
+Vijayawada,v,a
+Yerevan,y,n
+Bijie,b,e
+Monterrey,m,y
+Kigali,k,i
+Rostov-na-Donu,r,u
+Zhuzhou,z,u
+Bogor,b,r
+Malingao,m,o
+Touba,t,a
+Ufa,u,a
+Ranchi,r,i
+Baku,b,u
+Shangrao,s,o
+Lilongwe,l,e
+Huaibei,h,i
+Maiduguri,m,i
+Meishan,m,n
+Mwanza,m,a
+Sendai,s,i
+Ulsan,u,n
+Krasnoyarsk,k,k
+Fuzhou,f,u
+Guigang,g,g
+Pekanbaru,p,u
+Oslo,o,o
+Jabalpur,j,r
+Ilorin,i,n
+Aden,a,n
+Ciudad Nezahualcoyotl,c,l
+Hengyang,h,g
+Prayagraj,p,j
+Visakhapatnam,v,m
+Goyang-si,g,i
+Yulin,y,n
+Jodhpur,j,r
+Gwalior,g,r
+Jingzhou,j,u

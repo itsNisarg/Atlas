@@ -1,0 +1,196 @@
+Country,StartsWith,EndsWith
+Afghanistan,a,n
+Albania,a,a
+Algeria,a,a
+Andorra,a,a
+Angola,a,a
+Antigua and Barbuda,a,a
+Argentina,a,a
+Armenia,a,a
+Australia,a,a
+Austria,a,a
+Azerbaijan,a,n
+Bahamas,b,s
+Bahrain,b,n
+Bangladesh,b,h
+Barbados,b,s
+Belarus,b,s
+Belgium,b,m
+Belize,b,e
+Benin,b,n
+Bhutan,b,n
+Bolivia,b,a
+Bosnia and Herzegovina,b,a
+Botswana,b,a
+Brazil,b,l
+Brunei,b,i
+Bulgaria,b,a
+Burkina Faso,b,o
+Burundi,b,i
+Cambodia,c,a
+Cameroon,c,n
+Canada,c,a
+Cape Verde,c,e
+Central African Republic,c,c
+Chad,c,d
+Chile,c,e
+China,c,a
+Colombia,c,a
+Comoros,c,s
+Costa Rica,c,a
+Croatia,c,a
+Cuba,c,a
+Cyprus,c,s
+Czech Republic,c,c
+Democratic Republic of the Congo,d,o
+Denmark,d,k
+Djibouti,d,i
+Dominica,d,a
+Dominican Republic,d,c
+Ecuador,e,r
+Egypt,e,t
+El Salvador,e,r
+Equatorial Guinea,e,a
+Eritrea,e,a
+Estonia,e,a
+Eswatini,e,i
+Ethiopia,e,a
+Fiji,f,i
+Finland,f,d
+France,f,e
+Gabon,g,n
+Gambia,g,a
+Georgia,g,a
+Germany,g,y
+Ghana,g,a
+Greece,g,e
+Grenada,g,a
+Guatemala,g,a
+Guinea,g,a
+Guinea-Bissau,g,u
+Guyana,g,a
+Haiti,h,i
+Honduras,h,s
+Hungary,h,y
+Iceland,i,d
+India,i,a
+Indonesia,i,a
+Iran,i,n
+Iraq,i,q
+Ireland,i,d
+Israel,i,l
+Italy,i,y
+Ivory Coast,i,t
+Jamaica,j,a
+Japan,j,n
+Jordan,j,n
+Kazakhstan,k,n
+Kenya,k,a
+Kiribati,k,i
+Kuwait,k,t
+Kyrgyzstan,k,n
+Laos,l,s
+Latvia,l,a
+Lebanon,l,n
+Lesotho,l,o
+Liberia,l,a
+Libya,l,a
+Liechtenstein,l,n
+Lithuania,l,a
+Luxembourg,l,g
+Madagascar,m,r
+Malawi,m,i
+Malaysia,m,a
+Maldives,m,s
+Mali,m,i
+Malta,m,a
+Marshall Islands,m,s
+Mauritania,m,a
+Mauritius,m,s
+Mexico,m,o
+Micronesia,m,a
+Moldova,m,a
+Monaco,m,o
+Mongolia,m,a
+Montenegro,m,o
+Morocco,m,o
+Mozambique,m,e
+Myanmar,m,r
+Namibia,n,a
+Nauru,n,u
+Nepal,n,l
+Netherlands,n,s
+New Zealand,n,d
+Nicaragua,n,a
+Niger,n,r
+Nigeria,n,a
+North Korea,n,a
+North Macedonia,n,a
+Norway,n,y
+Oman,o,n
+Pakistan,p,n
+Palau,p,u
+Palestine,p,e
+Panama,p,a
+Papua New Guinea,p,a
+Paraguay,p,y
+Peru,p,u
+Philippines,p,s
+Poland,p,d
+Portugal,p,l
+Qatar,q,r
+Republic of the Congo,r,o
+Romania,r,a
+Russia,r,a
+Rwanda,r,a
+Saint Kitts and Nevis,s,s
+Saint Lucia,s,a
+Saint Vincent and the Grenadines,s,s
+Samoa,s,a
+San Marino,s,o
+Saudi Arabia,s,a
+Senegal,s,l
+Serbia,s,a
+Seychelles,s,s
+Sierra Leone,s,e
+Singapore,s,e
+Slovakia,s,a
+Slovenia,s,a
+Solomon Islands,s,s
+Somalia,s,a
+South Africa,s,a
+South Korea,s,a
+South Sudan,s,n
+Spain,s,n
+Sri Lanka,s,a
+Sudan,s,n
+Suriname,s,e
+Sweden,s,n
+Switzerland,s,d
+Syria,s,a
+São Tomé and Príncipe,s,e
+Tajikistan,t,n
+Tanzania,t,a
+Thailand,t,d
+Timor-Leste,t,e
+Togo,t,o
+Tonga,t,a
+Trinidad and Tobago,t,o
+Tunisia,t,a
+Turkey,t,y
+Turkmenistan,t,n
+Tuvalu,t,u
+Uganda,u,a
+Ukraine,u,e
+United Arab Emirates,u,s
+United Kingdom,u,m
+United States,u,s
+Uruguay,u,y
+Uzbekistan,u,n
+Vanuatu,v,u
+Vatican City,v,y
+Venezuela,v,a
+Vietnam,v,m
+Yemen,y,n
+Zambia,z,a
+Zimbabwe,z,e
