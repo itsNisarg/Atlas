@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="a" />
+    <node id="n" />
+    <node id="b" />
+    <node id="s" />
+    <node id="h" />
+    <node id="m" />
+    <node id="e" />
+    <node id="l" />
+    <node id="i" />
+    <node id="o" />
+    <node id="c" />
+    <node id="d" />
+    <node id="k" />
+    <node id="r" />
+    <node id="t" />
+    <node id="f" />
+    <node id="g" />
+    <node id="y" />
+    <node id="u" />
+    <node id="q" />
+    <node id="j" />
+    <node id="p" />
+    <node id="v" />
+    <node id="z" />
+    <node id="w" />
+    <node id="x" />
+    <node id="á" />
+    <node id="ü" />
+    <node id="é" />
+    <node id="ơ" />
+    <node id="ế" />
+    <edge source="a" target="n" />
+    <edge source="a" target="a" />
+    <edge source="a" target="d" />
+    <edge source="a" target="s" />
+    <edge source="a" target="o" />
+    <edge source="a" target="h" />
+    <edge source="a" target="y" />
+    <edge source="a" target="i" />
+    <edge source="a" target="e" />
+    <edge source="a" target="r" />
+    <edge source="a" target="g" />
+    <edge source="n" target="a" />
+    <edge source="n" target="u" />
+    <edge source="n" target="l" />
+    <edge source="n" target="s" />
+    <edge source="n" target="d" />
+    <edge source="n" target="r" />
+    <edge source="n" target="y" />
+    <edge source="n" target="g" />
+    <edge source="n" target="i" />
+    <edge source="n" target="o" />
+    <edge source="n" target="k" />
+    <edge source="n" target="h" />
+    <edge source="n" target="t" />
+    <edge source="b" target="s" />
+    <edge source="b" target="n" />
+    <edge source="b" target="h" />
+    <edge source="b" target="m" />
+    <edge source="b" target="e" />
+    <edge source="b" target="a" />
+    <edge source="b" target="l" />
+    <edge source="b" target="i" />
+    <edge source="b" target="o" />
+    <edge source="b" target="g" />
+    <edge source="b" target="u" />
+    <edge source="b" target="á" />
+    <edge source="b" target="d" />
+    <edge source="b" target="k" />
+    <edge source="b" target="t" />
+    <edge source="b" target="y" />
+    <edge source="b" target="r" />
+    <edge source="s" target="s" />
+    <edge source="s" target="a" />
+    <edge source="s" target="o" />
+    <edge source="s" target="l" />
+    <edge source="s" target="e" />
+    <edge source="s" target="n" />
+    <edge source="s" target="d" />
+    <edge source="s" target="i" />
+    <edge source="s" target="g" />
+    <edge source="s" target="u" />
+    <edge source="s" target="y" />
+    <edge source="s" target="t" />
+    <edge source="s" target="r" />
+    <edge source="s" target="h" />
+    <edge source="s" target="m" />
+    <edge source="s" target="z" />
+    <edge source="h" target="i" />
+    <edge source="h" target="s" />
+    <edge source="h" target="y" />
+    <edge source="h" target="u" />
+    <edge source="h" target="g" />
+    <edge source="h" target="d" />
+    <edge source="h" target="n" />
+    <edge source="h" target="t" />
+    <edge source="h" target="a" />
+    <edge source="h" target="e" />
+    <edge source="h" target="ế" />
+    <edge source="m" target="r" />
+    <edge source="m" target="i" />
+    <edge source="m" target="a" />
+    <edge source="m" target="s" />
+    <edge source="m" target="o" />
+    <edge source="m" target="e" />
+    <edge source="m" target="y" />
+    <edge source="m" target="w" />
+    <edge source="m" target="d" />
+    <edge source="m" target="u" />
+    <edge source="m" target="n" />
+    <edge source="m" target="l" />
+    <edge source="m" target="k" />
+    <edge source="m" target="h" />
+    <edge source="m" target="g" />
+    <edge source="m" target="t" />
+    <edge source="e" target="r" />
+    <edge source="e" target="t" />
+    <edge source="e" target="a" />
+    <edge source="e" target="i" />
+    <edge source="e" target="s" />
+    <edge source="e" target="l" />
+    <edge source="l" target="s" />
+    <edge source="l" target="a" />
+    <edge source="l" target="n" />
+    <edge source="l" target="o" />
+    <edge source="l" target="g" />
+    <edge source="l" target="e" />
+    <edge source="l" target="u" />
+    <edge source="l" target="i" />
+    <edge source="l" target="w" />
+    <edge source="l" target="é" />
+    <edge source="l" target="z" />
+    <edge source="l" target="t" />
+    <edge source="i" target="d" />
+    <edge source="i" target="a" />
+    <edge source="i" target="n" />
+    <edge source="i" target="q" />
+    <edge source="i" target="l" />
+    <edge source="i" target="y" />
+    <edge source="i" target="t" />
+    <edge source="i" target="r" />
+    <edge source="i" target="e" />
+    <edge source="o" target="n" />
+    <edge source="o" target="a" />
+    <edge source="o" target="u" />
+    <edge source="o" target="s" />
+    <edge source="o" target="k" />
+    <edge source="o" target="o" />
+    <edge source="c" target="a" />
+    <edge source="c" target="n" />
+    <edge source="c" target="e" />
+    <edge source="c" target="c" />
+    <edge source="c" target="d" />
+    <edge source="c" target="s" />
+    <edge source="c" target="u" />
+    <edge source="c" target="o" />
+    <edge source="c" target="g" />
+    <edge source="c" target="i" />
+    <edge source="c" target="m" />
+    <edge source="c" target="y" />
+    <edge source="c" target="z" />
+    <edge source="c" target="ơ" />
+    <edge source="c" target="k" />
+    <edge source="c" target="l" />
+    <edge source="d" target="o" />
+    <edge source="d" target="k" />
+    <edge source="d" target="i" />
+    <edge source="d" target="a" />
+    <edge source="d" target="c" />
+    <edge source="d" target="n" />
+    <edge source="d" target="m" />
+    <edge source="d" target="r" />
+    <edge source="d" target="u" />
+    <edge source="d" target="g" />
+    <edge source="d" target="s" />
+    <edge source="d" target="d" />
+    <edge source="k" target="n" />
+    <edge source="k" target="a" />
+    <edge source="k" target="i" />
+    <edge source="k" target="t" />
+    <edge source="k" target="o" />
+    <edge source="k" target="l" />
+    <edge source="k" target="g" />
+    <edge source="k" target="r" />
+    <edge source="k" target="v" />
+    <edge source="k" target="m" />
+    <edge source="k" target="e" />
+    <edge source="k" target="j" />
+    <edge source="k" target="u" />
+    <edge source="k" target="k" />
+    <edge source="r" target="o" />
+    <edge source="r" target="a" />
+    <edge source="r" target="h" />
+    <edge source="r" target="i" />
+    <edge source="r" target="e" />
+    <edge source="r" target="m" />
+    <edge source="r" target="t" />
+    <edge source="r" target="u" />
+    <edge source="t" target="n" />
+    <edge source="t" target="a" />
+    <edge source="t" target="d" />
+    <edge source="t" target="e" />
+    <edge source="t" target="o" />
+    <edge source="t" target="y" />
+    <edge source="t" target="u" />
+    <edge source="t" target="i" />
+    <edge source="t" target="g" />
+    <edge source="t" target="t" />
+    <edge source="t" target="z" />
+    <edge source="t" target="x" />
+    <edge source="f" target="i" />
+    <edge source="f" target="d" />
+    <edge source="f" target="e" />
+    <edge source="f" target="n" />
+    <edge source="f" target="u" />
+    <edge source="f" target="a" />
+    <edge source="f" target="g" />
+    <edge source="f" target="s" />
+    <edge source="g" target="n" />
+    <edge source="g" target="a" />
+    <edge source="g" target="y" />
+    <edge source="g" target="e" />
+    <edge source="g" target="u" />
+    <edge source="g" target="g" />
+    <edge source="g" target="l" />
+    <edge source="g" target="r" />
+    <edge source="g" target="p" />
+    <edge source="g" target="d" />
+    <edge source="g" target="o" />
+    <edge source="g" target="s" />
+    <edge source="g" target="i" />
+    <edge source="y" target="n" />
+    <edge source="y" target="a" />
+    <edge source="y" target="u" />
+    <edge source="y" target="i" />
+    <edge source="y" target="g" />
+    <edge source="y" target="é" />
+    <edge source="u" target="a" />
+    <edge source="u" target="e" />
+    <edge source="u" target="s" />
+    <edge source="u" target="m" />
+    <edge source="u" target="y" />
+    <edge source="u" target="n" />
+    <edge source="q" target="r" />
+    <edge source="q" target="o" />
+    <edge source="q" target="y" />
+    <edge source="q" target="s" />
+    <edge source="q" target="g" />
+    <edge source="q" target="n" />
+    <edge source="q" target="a" />
+    <edge source="q" target="u" />
+    <edge source="j" target="a" />
+    <edge source="j" target="n" />
+    <edge source="j" target="g" />
+    <edge source="j" target="h" />
+    <edge source="j" target="r" />
+    <edge source="j" target="u" />
+    <edge source="p" target="n" />
+    <edge source="p" target="u" />
+    <edge source="p" target="e" />
+    <edge source="p" target="a" />
+    <edge source="p" target="y" />
+    <edge source="p" target="s" />
+    <edge source="p" target="d" />
+    <edge source="p" target="l" />
+    <edge source="p" target="r" />
+    <edge source="p" target="g" />
+    <edge source="p" target="h" />
+    <edge source="p" target="t" />
+    <edge source="p" target="x" />
+    <edge source="p" target="i" />
+    <edge source="p" target="j" />
+    <edge source="v" target="u" />
+    <edge source="v" target="y" />
+    <edge source="v" target="a" />
+    <edge source="v" target="m" />
+    <edge source="v" target="r" />
+    <edge source="v" target="i" />
+    <edge source="z" target="a" />
+    <edge source="z" target="e" />
+    <edge source="z" target="u" />
+    <edge source="z" target="n" />
+    <edge source="z" target="o" />
+    <edge source="z" target="i" />
+    <edge source="z" target="g" />
+    <edge source="w" target="n" />
+    <edge source="w" target="i" />
+    <edge source="w" target="u" />
+    <edge source="w" target="g" />
+    <edge source="w" target="w" />
+    <edge source="x" target="n" />
+    <edge source="x" target="g" />
+    <edge source="x" target="u" />
+    <edge source="ü" target="i" />
+  </graph>
+</graphml>
