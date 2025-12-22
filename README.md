@@ -1,6 +1,7 @@
 # ATLAS Game Network Analysis
 
 This project analyzes the geographical word game **ATLAS** using complex network theory. It models countries and cities as nodes in a directed graph, where an edge exists if one location's name ends with the letter that the next location's name begins with.
+<p align="center"><img src="code/visualizations/country.png" alt="Strategy Comparison" width="500"></p>
 
 The project encompasses data scraping, network construction, deep structural analysis, and an interactive game engine with advanced strategies.
 
@@ -22,7 +23,7 @@ The project encompasses data scraping, network construction, deep structural ana
   - **`game/`**: The ATLAS game application.
     - `atlas.py`: Interactive game engine. Features include Human vs AI, AI vs AI simulations, and Strategy Tournaments.
     - `win_matrix.png`: Analysis of strategy performance.
-    <p align="center"><img src="code/game/win_matrix.png" alt="Strategy Comparison" width="200"></p>
+    <p align="center"><img src="code/game/win_matrix.png" alt="Strategy Comparison" width="300"></p>
 
 ## Key Features
 
