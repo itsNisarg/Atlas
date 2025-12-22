@@ -22,7 +22,7 @@ The project encompasses data scraping, network construction, deep structural ana
   - **`game/`**: The ATLAS game application.
     - `atlas.py`: Interactive game engine. Features include Human vs AI, AI vs AI simulations, and Strategy Tournaments.
     - `win_matrix.png`: Analysis of strategy performance.
-    <img src="code/game/win_matrix.png" alt="Strategy Comparison" width="200">
+    <p align="center"><img src="code/game/win_matrix.png" alt="Strategy Comparison" width="200"></p>
 
 ## Key Features
 
