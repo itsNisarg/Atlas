@@ -1,0 +1,157 @@
+Oman -> Nepal -> Lesotho
+Oman -> Netherlands -> San Marino
+Oman -> New Zealand -> Democratic Republic of the Congo
+Oman -> Niger -> Republic of the Congo
+Oman -> Nauru -> United Kingdom -> Mexico
+Oman -> Nauru -> United Kingdom -> Monaco
+Oman -> Nauru -> United Kingdom -> Montenegro
+Oman -> Nauru -> United Kingdom -> Morocco
+Oman -> Nauru -> United Arab Emirates -> San Marino
+Oman -> Nauru -> United States -> San Marino
+Oman -> Nepal -> Laos -> San Marino
+Oman -> Netherlands -> Switzerland -> Democratic Republic of the Congo
+Oman -> Netherlands -> Senegal -> Lesotho
+Oman -> Netherlands -> Saint Kitts and Nevis -> San Marino
+Oman -> Netherlands -> Saint Vincent and the Grenadines -> San Marino
+Oman -> Netherlands -> Seychelles -> San Marino
+Oman -> Netherlands -> Solomon Islands -> San Marino
+Oman -> Namibia -> Afghanistan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Namibia -> Azerbaijan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Namibia -> Afghanistan -> Nepal -> Lesotho
+Oman -> Namibia -> Azerbaijan -> Nepal -> Lesotho
+Oman -> Namibia -> Afghanistan -> Niger -> Republic of the Congo
+Oman -> Namibia -> Azerbaijan -> Niger -> Republic of the Congo
+Oman -> Namibia -> Afghanistan -> Netherlands -> San Marino
+Oman -> Namibia -> Azerbaijan -> Netherlands -> San Marino
+Oman -> Nauru -> United Arab Emirates -> Switzerland -> Democratic Republic of the Congo
+Oman -> Nauru -> United States -> Switzerland -> Democratic Republic of the Congo
+Oman -> Nauru -> Uzbekistan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Nauru -> United Arab Emirates -> Senegal -> Lesotho
+Oman -> Nauru -> United States -> Senegal -> Lesotho
+Oman -> Nauru -> Uzbekistan -> Nepal -> Lesotho
+Oman -> Nauru -> Ukraine -> Ecuador -> Republic of the Congo
+Oman -> Nauru -> Ukraine -> El Salvador -> Republic of the Congo
+Oman -> Nauru -> United Kingdom -> Madagascar -> Republic of the Congo
+Oman -> Nauru -> United Kingdom -> Myanmar -> Republic of the Congo
+Oman -> Nauru -> Uzbekistan -> Niger -> Republic of the Congo
+Oman -> Nauru -> United Arab Emirates -> Saint Kitts and Nevis -> San Marino
+Oman -> Nauru -> United Arab Emirates -> Saint Vincent and the Grenadines -> San Marino
+Oman -> Nauru -> United Arab Emirates -> Seychelles -> San Marino
+Oman -> Nauru -> United Arab Emirates -> Solomon Islands -> San Marino
+Oman -> Nauru -> United Kingdom -> Maldives -> San Marino
+Oman -> Nauru -> United Kingdom -> Marshall Islands -> San Marino
+Oman -> Nauru -> United Kingdom -> Mauritius -> San Marino
+Oman -> Nauru -> United States -> Saint Kitts and Nevis -> San Marino
+Oman -> Nauru -> United States -> Saint Vincent and the Grenadines -> San Marino
+Oman -> Nauru -> United States -> Seychelles -> San Marino
+Oman -> Nauru -> United States -> Solomon Islands -> San Marino
+Oman -> Nauru -> Uzbekistan -> Netherlands -> San Marino
+Oman -> Nauru -> Ukraine -> Egypt -> Togo
+Oman -> Nauru -> Ukraine -> Egypt -> Trinidad and Tobago
+Oman -> Nepal -> Laos -> Switzerland -> Democratic Republic of the Congo
+Oman -> Nepal -> Lebanon -> New Zealand -> Democratic Republic of the Congo
+Oman -> Nepal -> Liechtenstein -> New Zealand -> Democratic Republic of the Congo
+Oman -> Nepal -> Laos -> Senegal -> Lesotho
+Oman -> Nepal -> Lebanon -> Niger -> Republic of the Congo
+Oman -> Nepal -> Liechtenstein -> Niger -> Republic of the Congo
+Oman -> Nepal -> Laos -> Saint Kitts and Nevis -> San Marino
+Oman -> Nepal -> Laos -> Saint Vincent and the Grenadines -> San Marino
+Oman -> Nepal -> Laos -> Seychelles -> San Marino
+Oman -> Nepal -> Laos -> Solomon Islands -> San Marino
+Oman -> Nepal -> Lebanon -> Netherlands -> San Marino
+Oman -> Nepal -> Liechtenstein -> Netherlands -> San Marino
+Oman -> Netherlands -> Saint Kitts and Nevis -> Switzerland -> Democratic Republic of the Congo
+Oman -> Netherlands -> Saint Vincent and the Grenadines -> Switzerland -> Democratic Republic of the Congo
+Oman -> Netherlands -> Seychelles -> Switzerland -> Democratic Republic of the Congo
+Oman -> Netherlands -> Solomon Islands -> Switzerland -> Democratic Republic of the Congo
+Oman -> Netherlands -> South Sudan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Netherlands -> Spain -> New Zealand -> Democratic Republic of the Congo
+Oman -> Netherlands -> Sudan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Netherlands -> Sweden -> New Zealand -> Democratic Republic of the Congo
+Oman -> Netherlands -> Saint Kitts and Nevis -> Senegal -> Lesotho
+Oman -> Netherlands -> Saint Vincent and the Grenadines -> Senegal -> Lesotho
+Oman -> Netherlands -> Seychelles -> Senegal -> Lesotho
+Oman -> Netherlands -> Solomon Islands -> Senegal -> Lesotho
+Oman -> Netherlands -> South Sudan -> Nepal -> Lesotho
+Oman -> Netherlands -> Spain -> Nepal -> Lesotho
+Oman -> Netherlands -> Sudan -> Nepal -> Lesotho
+Oman -> Netherlands -> Sweden -> Nepal -> Lesotho
+Oman -> Netherlands -> Sierra Leone -> Ecuador -> Republic of the Congo
+Oman -> Netherlands -> Sierra Leone -> El Salvador -> Republic of the Congo
+Oman -> Netherlands -> Singapore -> Ecuador -> Republic of the Congo
+Oman -> Netherlands -> Singapore -> El Salvador -> Republic of the Congo
+Oman -> Netherlands -> South Sudan -> Niger -> Republic of the Congo
+Oman -> Netherlands -> Spain -> Niger -> Republic of the Congo
+Oman -> Netherlands -> Sudan -> Niger -> Republic of the Congo
+Oman -> Netherlands -> Suriname -> Ecuador -> Republic of the Congo
+Oman -> Netherlands -> Suriname -> El Salvador -> Republic of the Congo
+Oman -> Netherlands -> Sweden -> Niger -> Republic of the Congo
+Oman -> Netherlands -> São Tomé and Príncipe -> Ecuador -> Republic of the Congo
+Oman -> Netherlands -> São Tomé and Príncipe -> El Salvador -> Republic of the Congo
+Oman -> Netherlands -> Saint Kitts and Nevis -> Saint Vincent and the Grenadines -> San Marino
+Oman -> Netherlands -> Saint Kitts and Nevis -> Seychelles -> San Marino
+Oman -> Netherlands -> Saint Kitts and Nevis -> Solomon Islands -> San Marino
+Oman -> Netherlands -> Saint Vincent and the Grenadines -> Saint Kitts and Nevis -> San Marino
+Oman -> Netherlands -> Saint Vincent and the Grenadines -> Seychelles -> San Marino
+Oman -> Netherlands -> Saint Vincent and the Grenadines -> Solomon Islands -> San Marino
+Oman -> Netherlands -> Senegal -> Laos -> San Marino
+Oman -> Netherlands -> Seychelles -> Saint Kitts and Nevis -> San Marino
+Oman -> Netherlands -> Seychelles -> Saint Vincent and the Grenadines -> San Marino
+Oman -> Netherlands -> Seychelles -> Solomon Islands -> San Marino
+Oman -> Netherlands -> Solomon Islands -> Saint Kitts and Nevis -> San Marino
+Oman -> Netherlands -> Solomon Islands -> Saint Vincent and the Grenadines -> San Marino
+Oman -> Netherlands -> Solomon Islands -> Seychelles -> San Marino
+Oman -> Netherlands -> Sierra Leone -> Egypt -> Togo
+Oman -> Netherlands -> Singapore -> Egypt -> Togo
+Oman -> Netherlands -> Suriname -> Egypt -> Togo
+Oman -> Netherlands -> São Tomé and Príncipe -> Egypt -> Togo
+Oman -> Netherlands -> Sierra Leone -> Egypt -> Trinidad and Tobago
+Oman -> Netherlands -> Singapore -> Egypt -> Trinidad and Tobago
+Oman -> Netherlands -> Suriname -> Egypt -> Trinidad and Tobago
+Oman -> Netherlands -> São Tomé and Príncipe -> Egypt -> Trinidad and Tobago
+Oman -> New Zealand -> Djibouti -> Iceland -> Democratic Republic of the Congo
+Oman -> New Zealand -> Djibouti -> Ireland -> Democratic Republic of the Congo
+Oman -> New Zealand -> Dominican Republic -> Chad -> Democratic Republic of the Congo
+Oman -> New Zealand -> Djibouti -> Israel -> Lesotho
+Oman -> New Zealand -> Dominican Republic -> Comoros -> San Marino
+Oman -> New Zealand -> Dominican Republic -> Cyprus -> San Marino
+Oman -> New Zealand -> Denmark -> Kuwait -> Togo
+Oman -> New Zealand -> Djibouti -> Ivory Coast -> Togo
+Oman -> New Zealand -> Denmark -> Kuwait -> Trinidad and Tobago
+Oman -> New Zealand -> Djibouti -> Ivory Coast -> Trinidad and Tobago
+Oman -> Nicaragua -> Afghanistan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Nicaragua -> Azerbaijan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Nicaragua -> Afghanistan -> Nepal -> Lesotho
+Oman -> Nicaragua -> Azerbaijan -> Nepal -> Lesotho
+Oman -> Nicaragua -> Afghanistan -> Niger -> Republic of the Congo
+Oman -> Nicaragua -> Azerbaijan -> Niger -> Republic of the Congo
+Oman -> Nicaragua -> Afghanistan -> Netherlands -> San Marino
+Oman -> Nicaragua -> Azerbaijan -> Netherlands -> San Marino
+Oman -> Nigeria -> Afghanistan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Nigeria -> Azerbaijan -> New Zealand -> Democratic Republic of the Congo
+Oman -> Nigeria -> Afghanistan -> Nepal -> Lesotho
+Oman -> Nigeria -> Azerbaijan -> Nepal -> Lesotho
+Oman -> Nigeria -> Afghanistan -> Niger -> Republic of the Congo
+Oman -> Nigeria -> Azerbaijan -> Niger -> Republic of the Congo
+Oman -> Nigeria -> Afghanistan -> Netherlands -> San Marino
+Oman -> Nigeria -> Azerbaijan -> Netherlands -> San Marino
+Oman -> North Korea -> Afghanistan -> New Zealand -> Democratic Republic of the Congo
+Oman -> North Korea -> Azerbaijan -> New Zealand -> Democratic Republic of the Congo
+Oman -> North Korea -> Afghanistan -> Nepal -> Lesotho
+Oman -> North Korea -> Azerbaijan -> Nepal -> Lesotho
+Oman -> North Korea -> Afghanistan -> Niger -> Republic of the Congo
+Oman -> North Korea -> Azerbaijan -> Niger -> Republic of the Congo
+Oman -> North Korea -> Afghanistan -> Netherlands -> San Marino
+Oman -> North Korea -> Azerbaijan -> Netherlands -> San Marino
+Oman -> North Macedonia -> Afghanistan -> New Zealand -> Democratic Republic of the Congo
+Oman -> North Macedonia -> Azerbaijan -> New Zealand -> Democratic Republic of the Congo
+Oman -> North Macedonia -> Afghanistan -> Nepal -> Lesotho
+Oman -> North Macedonia -> Azerbaijan -> Nepal -> Lesotho
+Oman -> North Macedonia -> Afghanistan -> Niger -> Republic of the Congo
+Oman -> North Macedonia -> Azerbaijan -> Niger -> Republic of the Congo
+Oman -> North Macedonia -> Afghanistan -> Netherlands -> San Marino
+Oman -> North Macedonia -> Azerbaijan -> Netherlands -> San Marino
+Oman -> Norway -> Yemen -> New Zealand -> Democratic Republic of the Congo
+Oman -> Norway -> Yemen -> Nepal -> Lesotho
+Oman -> Norway -> Yemen -> Niger -> Republic of the Congo
+Oman -> Norway -> Yemen -> Netherlands -> San Marino

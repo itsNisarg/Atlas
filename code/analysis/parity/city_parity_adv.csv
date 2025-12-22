@@ -1,0 +1,497 @@
+,CityParity
+Yaoundé,500
+Huế,500
+Bogotá,500
+Lomé,500
+Cần Thơ,500
+Brazzaville,82
+Gustavo Adolfo Madero,58
+Jingzhou,54
+Incheon,54
+Algiers,50
+Khulna,50
+London,50
+Ürümqi,48
+Kobe,48
+Zapopan,46
+Melbourne,46
+Jaipur,46
+İzmir,46
+Rabat,42
+Anyang,42
+Lianyungang,42
+Guiyang,42
+Santiago,42
+Jabalpur,40
+Nairobi,40
+Karaj,40
+Cairo,40
+Changsha,40
+Oslo,38
+Busan,38
+Wenzhou,38
+Lubumbashi,38
+Budta,36
+Pune,36
+La Paz,36
+Nanjing,36
+Rome,36
+Indore,36
+Durban,36
+Dar es Salaam,36
+Paris,34
+Rio de Janeiro,34
+New Taipei City,34
+Huizhou,34
+Antalya,32
+Ahmedabad,32
+Montevideo,32
+Daegu,32
+Qingyang,32
+Shymkent,32
+Taiyuan,32
+Santiago de los Caballeros,30
+Putian,30
+Copenhagen,30
+Hanoi,30
+Yerevan,30
+Accra,30
+Iztapalapa,30
+Buenos Aires,28
+Ningbo,28
+Bao'an,28
+Yangjiang,28
+Port Harcourt,28
+Monrovia,28
+Valencia,28
+Jepara,28
+Handan,26
+Al Başrah al Qadīmah,26
+Quetta,26
+Adelaide,26
+Wuxi,26
+Ulsan,26
+Lima,26
+Kazan,26
+Coimbatore,26
+Karbala,26
+Barquisimeto,24
+Minsk,24
+Dombivali,24
+Anshan,24
+Jamshedpur,24
+Dalian,24
+Houston,24
+Nouakchott,24
+Chennai,24
+Nagoya,24
+Auckland,24
+Shantou,22
+Kanpur,22
+Maiduguri,22
+Kunming,22
+Kyoto,22
+Daejeon,22
+Bijie,22
+São Paulo,20
+Chelyabinsk,20
+Lagos,20
+Ecatepec de Morelos,20
+Dakar,20
+Quanzhou,20
+Salvador,20
+Berlin,20
+Bangkok,20
+Aurangabad,20
+Qujing,20
+Chaozhou,18
+Suwon,18
+Qingyuan,18
+Tabriz,18
+Brasília,18
+Sanaa,18
+Belém,18
+Shanghai,18
+Rasapūdipalem,16
+Rājkot,16
+Medan,16
+Porto Alegre,16
+Palembang,16
+Kunshan,16
+Lahore,16
+Gwalior,16
+Kalyān,16
+Belgrade,16
+Taichung,16
+Calgary,16
+Pekanbaru,16
+Visakhapatnam,16
+Saitama,16
+Dallas,16
+León de los Aldama,16
+Prayagraj,14
+Mwanza,14
+Kano,14
+Amritsar,14
+Karachi,14
+New Territories,14
+Aba,12
+Yichang,12
+Medellín,12
+Yinchuan,12
+Nashik,12
+Guadalajara,12
+Brisbane,12
+Biên Hòa,12
+Bozhou,12
+Osaka,12
+Tangshan,12
+Lilongwe,12
+Tripoli,12
+Cape Town,12
+Luanda,12
+Da Nang,12
+Srinagar,12
+Huainan,12
+Kinshasa,12
+Dongguan,12
+Tainan,12
+Surat,10
+Abobo,10
+Mashhad,10
+Zhangjiagang,10
+Luohe,10
+Gaziantep,10
+Najafgarh,10
+Bogor,10
+Bandung,10
+Kuala Lumpur,10
+Davao,10
+Gazipur,10
+Isfahan,10
+Wuhu,8
+Puebla,8
+Guayaquil,8
+Hyderabad,8
+Dammam,8
+Patna,8
+Shubrā al Khaymah,8
+Ibadan,8
+Saint Petersburg,8
+Xiangyang,8
+Liuzhou,8
+Amman,8
+Kharkiv,8
+Changchun,8
+Xuzhou,8
+Daqing,8
+Maracaibo,6
+Jiangyin,6
+Baoding,6
+Los Angeles,6
+Pimpri,6
+Fuzhou,6
+Taguig,6
+Harare,6
+Yangzhou,6
+Guilin,6
+Guarulhos,6
+Thāne,6
+Kisangani,4
+Madinah,4
+Omsk,4
+Datong,4
+Multan,4
+Omdurman,4
+Kawasaki,4
+Zhaoqing,4
+Huai'an,4
+Erbil,4
+Fortaleza,4
+Asunción,4
+Belo Horizonte,4
+Cixi,4
+Barranquilla,4
+Semarang,4
+Tijuana,4
+Meishan,4
+Hangzhou,4
+Istanbul,2
+Sapporo,2
+Haiphong,2
+Chattogram,2
+N'Djamena,2
+Shijiazhuang,2
+Lu’an,2
+Onitsha,2
+Lusaka,2
+Yantai,2
+Shangrao,2
+Bursa,2
+Faridabad,2
+Hengyang,2
+Ghāziābād,2
+Harbin,2
+Heze,0
+Jilin,0
+Birmingham,0
+Curitiba,0
+Ranchi,0
+Dhaka,0
+Jiaxing,0
+Zibo,0
+Sendai,0
+Ra’s Bayrūt,0
+Port-au-Prince,0
+Samara,0
+Fuyang,0
+Meerut,-2
+Shiraz,-2
+Khartoum,-2
+Kaohsiung,-2
+Yokohama,-2
+Casablanca,-2
+San Diego,-2
+Changzhi,-2
+Nowrangapur,-2
+Batam,-2
+Abidjan,-2
+South Tangerang,-2
+Al Mawşil al Jadīdah,-2
+Manaus,-2
+Dazhou,-2
+Philadelphia,-2
+Madurai,-2
+Nantong,-2
+Huaibei,-2
+Qingdao,-2
+Moscow,-2
+Weinan,-2
+Adana,-4
+Beirut,-4
+Bucharest,-4
+Shaoxing,-4
+Mumbai,-4
+Barcelona,-4
+Manila,-4
+Antananarivo,-4
+Queens,-4
+Agra,-4
+Kyiv,-4
+Faisalabad,-6
+Singapore,-6
+Puyang,-6
+Dhanbad,-6
+Tehran,-6
+Jinzhong,-6
+Suzhou,-6
+Sofia,-6
+Nanchang,-6
+Gwangju,-6
+Bannu,-6
+Kaifeng,-6
+Santiago de Querétaro,-6
+Zunyi,-6
+Navi Mumbai,-6
+Goiânia,-6
+Phnom Penh,-6
+Zigong,-6
+Linyi,-6
+Weifang,-6
+Peshawar,-8
+Hong Kong Island,-8
+Toronto,-8
+Phoenix,-8
+Soweto,-8
+Xining,-8
+Taipei,-8
+Kakamega,-8
+Mandalay,-8
+Xinyang,-8
+Douala,-8
+Kayseri,-8
+Jiangmen,-8
+Yiwu,-8
+Almaty,-8
+Chongqing,-8
+Bandar Lampung,-8
+Jining,-8
+Jakarta,-8
+Kaduna,-8
+Guigang,-10
+Damascus,-10
+Abu Dhabi,-10
+Shangqiu,-10
+Tirunelveli,-10
+Yixing,-10
+Rawalpindi,-10
+Recife,-10
+Touba,-10
+Kigali,-10
+Mérida,-10
+Warsaw,-12
+Diyarbakır,-12
+Budapest,-12
+Bayan Nur,-12
+Ufa,-12
+Gorakhpur,-12
+Kabul,-12
+Yulin,-12
+Jinjiang,-12
+Zhanjiang,-12
+Milan,-12
+Addis Ababa,-12
+Córdoba,-12
+Nanyang,-12
+Ilorin,-12
+Giza,-12
+Vijayawada,-12
+Rostov-na-Donu,-12
+Camayenne,-12
+Zhuzhou,-12
+Johannesburg,-14
+Baghdad,-14
+Xi’an,-14
+Shenzhen,-14
+Jinan,-14
+Tashkent,-14
+Madrid,-14
+Pyongyang,-14
+Zhengzhou,-14
+Baku,-14
+Ouagadougou,-14
+Kumasi,-14
+Mianyang,-14
+Aleppo,-14
+Pretoria,-14
+Ganzhou,-14
+Luoyang,-14
+San Antonio,-14
+Bamako,-16
+Xuchang,-16
+Changzhou,-16
+Kolkata,-16
+Varanasi,-16
+Prague,-16
+Vienna,-16
+Foshan,-16
+Ordos,-18
+Munich,-18
+Benin City,-18
+Mosul,-18
+Novosibirsk,-18
+Xiamen,-18
+Surabaya,-18
+Suqian,-18
+Fes,-18
+Bengaluru,-18
+Krasnoyarsk,-18
+Hefei,-18
+Guankou,-18
+Shiyan,-18
+Quezon City,-18
+Kowloon,-18
+Mogadishu,-18
+Fukuoka,-20
+Shenyang,-20
+Malingao,-20
+Nizhniy Novgorod,-20
+Tianshui,-20
+Beijing,-20
+Jodhpur,-20
+Pimpri-Chinchwad,-20
+Nanchong,-20
+Callao,-20
+Ankara,-20
+Caracas,-20
+Kampala,-22
+Ho Chi Minh City,-22
+Luohu District,-22
+Jiujiang,-22
+Wuhan,-22
+Kallakurichi,-22
+Manhattan,-22
+Jieyang,-22
+Havana,-22
+Lucknow,-22
+Alexandria,-22
+Hiroshima,-22
+Ciudad Nezahualcoyotl,-22
+Hong Kong,-24
+Goyang-si,-24
+Gujranwala,-24
+Kananga,-24
+Taizhou,-24
+Makassar,-24
+Brooklyn,-24
+Baoji,-26
+Tangerang,-26
+Tai’an,-26
+Basrah,-26
+Tokyo,-26
+Yunfu,-26
+Mbuji-Mayi,-26
+Cali,-26
+Zhongshan,-26
+Dubai,-26
+Seoul,-28
+Zhuhai,-28
+Santa Cruz de la Sierra,-28
+Changde,-28
+Jinhua,-28
+Maoming,-30
+Kathmandu,-30
+Vadodara,-30
+Guangzhou,-30
+Bekasi,-30
+Baotou,-30
+Lüliang,-32
+Delhi,-32
+Perth,-32
+Bhopal,-32
+Heshan,-32
+Santo Domingo,-32
+Wanzhou,-34
+Maputo,-34
+Stockholm,-34
+Lanzhou,-34
+Konya,-34
+Chengdu,-36
+Nanning,-36
+Chicago,-36
+Depok,-36
+Fushun,-36
+Conakry,-36
+Quito,-36
+Changshu,-36
+Mombasa,-36
+Hohhot,-38
+Riyadh,-38
+Tianjin,-38
+Liupanshui,-38
+Yancheng,-38
+The Bronx,-40
+Sharjah,-40
+Hamburg,-40
+Virār,-42
+Ludhiana,-42
+New York City,-42
+Ciudad Juárez,-42
+Matola,-44
+Aden,-44
+Montréal,-46
+Yekaterinburg,-48
+Qinzhou,-50
+Haikou,-50
+Mexico City,-50
+Makkah,-50
+Neijiang,-50
+Caloocan City,-52
+Sydney,-52
+Abuja,-54
+Niamey,-56
+Monterrey,-56
+Yangon,-56
+Liaocheng,-60
+Jeddah,-62
+Nagpur,-64

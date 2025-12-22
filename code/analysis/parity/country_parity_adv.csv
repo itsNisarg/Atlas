@@ -1,196 +1,196 @@
 ,CountryParity
-Niger,178
-Turkey,150
-Uruguay,146
-Germany,134
-Hungary,124
-Paraguay,124
-Italy,100
-Netherlands,94
-Sierra Leone,84
-Israel,80
-Antigua and Barbuda,78
-Armenia,74
-Nepal,72
-Madagascar,66
-El Salvador,64
-Vatican City,64
-Belarus,60
-Ecuador,60
-Luxembourg,58
-Mauritius,56
-Myanmar,56
-Algeria,56
+Niger,150
+Vatican City,130
+Germany,128
+Albania,126
+Argentina,104
+Austria,102
+Azerbaijan,94
+Hungary,94
+Qatar,94
+Denmark,92
+Andorra,88
+Uruguay,88
+Senegal,82
+Antigua and Barbuda,72
+Paraguay,72
+Ecuador,68
+Finland,68
+Turkey,62
+El Salvador,58
+Haiti,58
+Armenia,56
+Timor-Leste,54
+Afghanistan,54
+Myanmar,54
 Oman,54
-Central African Republic,54
-Qatar,54
-Albania,50
-Afghanistan,50
-United States,50
-Philippines,50
-Fiji,50
-Montenegro,48
-Denmark,44
-Australia,42
-Haiti,42
-Honduras,42
-Gambia,40
-United Arab Emirates,40
-United Kingdom,38
-Azerbaijan,38
-Andorra,38
-Angola,38
-Latvia,38
-Saint Kitts and Nevis,36
-Iceland,36
-Tuvalu,36
-Argentina,36
-Djibouti,36
-Bahamas,34
-Vietnam,34
-South Sudan,32
-Dominican Republic,32
-Benin,30
-Cyprus,30
-Brazil,28
-Suriname,28
-Chad,26
-Austria,26
-Seychelles,24
-Chile,24
-São Tomé and Príncipe,24
-India,20
-Belgium,18
-Republic of the Congo,18
-Nicaragua,16
-Finland,14
-San Marino,12
-Poland,12
-Kuwait,12
-Mali,10
-Senegal,8
-Cape Verde,8
-Brunei,8
-Comoros,8
-Sudan,6
-Kiribati,6
-Czech Republic,4
-Barbados,4
-France,4
-Zimbabwe,4
-Mozambique,4
-Portugal,2
-Jordan,2
-Maldives,0
+Seychelles,52
+Italy,50
+Solomon Islands,48
+Luxembourg,48
+Brazil,48
+United Kingdom,48
+Angola,46
+Cyprus,44
+Liechtenstein,44
+Ivory Coast,42
+Vietnam,42
+Singapore,42
+Philippines,42
+Switzerland,42
+Chad,40
+Poland,38
+Greece,38
+Belarus,38
+Belgium,32
+Nepal,32
+Maldives,32
+Central African Republic,30
+Saint Vincent and the Grenadines,30
+Saint Kitts and Nevis,30
+Zimbabwe,28
+United States,28
+Cape Verde,26
+Ukraine,26
+Chile,26
+Egypt,26
+Honduras,22
+Bahrain,20
+Palestine,20
+Barbados,18
+Sierra Leone,18
+Malta,16
+Sweden,16
+Kiribati,16
+Belize,16
+Turkmenistan,14
+Jordan,14
+Comoros,12
+Dominican Republic,12
+Czech Republic,12
+Mali,12
+Mozambique,10
+Algeria,10
+Japan,10
+Eswatini,8
+Democratic Republic of the Congo,8
+Netherlands,8
+Namibia,8
+Madagascar,6
+Malawi,6
+Palau,4
+Vanuatu,4
+Sudan,4
+Suriname,2
+Iraq,2
+New Zealand,2
 Laos,0
-Mexico,0
-Ivory Coast,-2
-Uzbekistan,-2
-Nigeria,-4
-Nauru,-4
-Saint Vincent and the Grenadines,-4
-Switzerland,-6
-Turkmenistan,-6
-Thailand,-8
-Solomon Islands,-10
-Ukraine,-10
-Belize,-10
+Djibouti,0
+Nigeria,0
+Fiji,-4
+Kazakhstan,-4
+Guinea-Bissau,-4
+Ireland,-6
+Estonia,-6
+Israel,-8
+Uzbekistan,-8
+Australia,-8
+Cameroon,-8
+Eritrea,-8
+Iran,-10
 Trinidad and Tobago,-12
-Japan,-12
-Ireland,-12
-Peru,-14
-North Macedonia,-14
-Malawi,-14
-Palau,-16
-Pakistan,-16
-Canada,-16
-Egypt,-16
-Timor-Leste,-16
-Burkina Faso,-16
-Marshall Islands,-18
-Iran,-18
-Norway,-18
-Spain,-20
-Greece,-22
-Namibia,-24
-Guyana,-24
-Papua New Guinea,-24
-Kazakhstan,-26
-Burundi,-28
-Bangladesh,-28
-Colombia,-28
-Guinea-Bissau,-28
-Morocco,-28
-Liechtenstein,-30
+Burundi,-12
+Brunei,-14
+Norway,-14
+United Arab Emirates,-14
+Malaysia,-14
+São Tomé and Príncipe,-18
+Thailand,-18
+Kuwait,-18
+Portugal,-18
+Somalia,-18
+France,-22
+Spain,-22
+Marshall Islands,-22
+Gabon,-24
+Bahamas,-24
+Mauritius,-26
+Nicaragua,-28
+Bhutan,-28
 North Korea,-30
 Kyrgyzstan,-30
-Liberia,-30
-Lesotho,-30
-Cambodia,-32
+Bangladesh,-30
+Iceland,-30
 Ghana,-32
-Tonga,-36
-Bhutan,-36
-Mongolia,-38
-Vanuatu,-38
-Malta,-40
-Palestine,-44
-Somalia,-44
-Ethiopia,-46
-South Korea,-48
-Togo,-48
-Sweden,-48
-Moldova,-48
-Lebanon,-50
-Gabon,-50
-Iraq,-50
-Venezuela,-52
-Micronesia,-52
-New Zealand,-52
+Guinea,-32
+Kenya,-32
+Lesotho,-32
+North Macedonia,-32
+Latvia,-36
+Jamaica,-38
+Yemen,-38
+Republic of the Congo,-38
+Cuba,-40
+Serbia,-42
+Croatia,-42
+Gambia,-44
+Equatorial Guinea,-44
+Samoa,-44
+Tuvalu,-44
+Cambodia,-46
+Canada,-48
+Indonesia,-48
+Slovakia,-50
+Romania,-50
+Benin,-50
+Botswana,-50
+Bulgaria,-50
+Burkina Faso,-52
 Tunisia,-52
-Zambia,-54
-Democratic Republic of the Congo,-56
-Guinea,-56
-South Africa,-58
-Libya,-58
-Tajikistan,-58
-Croatia,-60
-Costa Rica,-60
-Singapore,-60
-Jamaica,-60
-Russia,-62
-Lithuania,-62
-Mauritania,-64
-Sri Lanka,-64
-Equatorial Guinea,-64
-Tanzania,-66
-Eswatini,-68
-Botswana,-68
-Guatemala,-68
-Saudi Arabia,-70
-Slovakia,-70
-Grenada,-70
-China,-70
-Dominica,-70
-Indonesia,-76
-Malaysia,-76
-Georgia,-78
-Saint Lucia,-78
-Cameroon,-80
-Bosnia and Herzegovina,-82
-Rwanda,-82
-Romania,-84
-Serbia,-84
-Monaco,-92
-Bulgaria,-94
-Yemen,-96
-Kenya,-96
-Samoa,-98
-Panama,-102
-Slovenia,-104
-Bahrain,-108
-Syria,-116
-Cuba,-118
-Uganda,-120
-Bolivia,-124
-Estonia,-128
-Eritrea,-132
+San Marino,-54
+India,-54
+Saudi Arabia,-56
+Lebanon,-56
+Monaco,-56
+Syria,-58
+Bosnia and Herzegovina,-58
+Dominica,-60
+Morocco,-60
+Montenegro,-60
+Mexico,-60
+Venezuela,-60
+Pakistan,-60
+Panama,-60
+Tajikistan,-66
+Moldova,-66
+Costa Rica,-68
+China,-68
+South Africa,-70
+Colombia,-70
+Bolivia,-72
+Mongolia,-72
+Georgia,-72
+Rwanda,-74
+Papua New Guinea,-74
+Saint Lucia,-74
+Libya,-78
+Sri Lanka,-80
+Slovenia,-82
+Ethiopia,-82
+Grenada,-82
+Guatemala,-84
+Mauritania,-84
+Uganda,-84
+South Korea,-84
+Nauru,-86
+Togo,-90
+Tanzania,-92
+Liberia,-92
+Peru,-98
+Lithuania,-108
+South Sudan,-110
+Micronesia,-110
+Guyana,-112
+Russia,-114
+Tonga,-132
+Zambia,-188
