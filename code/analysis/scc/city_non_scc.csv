@@ -1,0 +1,98 @@
+City,InDegree,OutDegree,Advantage
+Yaoundé,14,0,-14
+Huế,13,0,-13
+Lomé,9,0,-9
+Bogotá,0,0,0
+Cần Thơ,0,0,0
+Bengaluru,0,2,2
+Changzhou,0,2,2
+Chengdu,0,2,2
+Camayenne,0,2,2
+Chaozhou,0,2,2
+Changshu,0,2,2
+Brazzaville,0,2,2
+Baotou,0,2,2
+Coimbatore,0,2,2
+Belo Horizonte,0,2,2
+Fuzhou,0,2,2
+Qinzhou,0,2,2
+Belgrade,0,2,2
+Bijie,0,2,2
+Bannu,0,2,2
+Bozhou,0,2,2
+Changde,0,2,2
+Quanzhou,0,2,2
+Baku,0,2,2
+Brisbane,0,2,2
+Bamako,0,7,7
+Qingdao,0,7,7
+Quito,0,7,7
+Chicago,0,7,7
+Barquisimeto,0,7,7
+Callao,0,7,7
+Cairo,0,7,7
+Ürümqi,0,8,8
+Chennai,0,8,8
+Cixi,0,8,8
+Baoji,0,8,8
+Changzhi,0,8,8
+Bekasi,0,8,8
+Cali,0,8,8
+Ciudad Juárez,0,11,11
+Bogor,0,11,11
+Bayan Nur,0,11,11
+Benin City,0,15,15
+Conakry,0,15,15
+Quezon City,0,15,15
+Caloocan City,0,15,15
+Calgary,0,15,15
+Qujing,0,20,20
+Bandung,0,20,20
+Baoding,0,20,20
+Fuyang,0,20,20
+Qingyang,0,20,20
+Chongqing,0,20,20
+Bandar Lampung,0,20,20
+Beijing,0,20,20
+Bucharest,0,22,22
+Budapest,0,22,22
+Beirut,0,22,22
+Bao'an,0,23,23
+Foshan,0,23,23
+Baghdad,0,23,23
+Faisalabad,0,23,23
+Changchun,0,23,23
+Brooklyn,0,23,23
+Busan,0,23,23
+Berlin,0,23,23
+Cape Town,0,23,23
+Copenhagen,0,23,23
+Faridabad,0,23,23
+Fushun,0,23,23
+Qingyuan,0,23,23
+Basrah,0,25,25
+Bhopal,0,25,25
+Ciudad Nezahualcoyotl,0,25,25
+Fortaleza,0,28,28
+Bursa,0,28,28
+Córdoba,0,28,28
+Brasília,0,28,28
+Changsha,0,28,28
+Casablanca,0,28,28
+Budta,0,28,28
+Barranquilla,0,28,28
+Biên Hòa,0,28,28
+Quetta,0,28,28
+Curitiba,0,28,28
+Fukuoka,0,28,28
+Barcelona,0,28,28
+Bangkok,0,35,35
+Chelyabinsk,0,35,35
+Belém,0,39,39
+Birmingham,0,39,39
+Chattogram,0,39,39
+Batam,0,39,39
+Queens,0,42,42
+Caracas,0,42,42
+Buenos Aires,0,42,42
+Fes,0,42,42
