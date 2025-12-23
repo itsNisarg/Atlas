@@ -1,6 +1,6 @@
 import random
 from collections import defaultdict
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ProcessPoolExecutor
 from pathlib import Path
 
 import matplotlib.pyplot as plt
@@ -30,7 +30,7 @@ class ATLASGame:
         self.game_history = []
 
         self.parity_adv = self._safe_load(
-            "code/analysis/parity/country_parity_adv.csv",
+            f"code/analysis/parity/{self.mode.lower()}_parity_adv.csv",
             f"{self.mode.capitalize()}Parity",
         )
         self.hits_adv = self._safe_load(
@@ -113,9 +113,15 @@ class ATLASGame:
             return False, "Invalid place."
         if place in self.used_places:
             return False, "Place already used."
-        if self.current_place:
-            if place[0].upper() != self.current_place[-1].upper():
-                return False, "Invalid starting letter."
+        if self.current_place is not None:
+            try:
+                if place[0].upper() != self.current_place[-1].upper():
+                    return False, "Invalid starting letter."
+            except:
+                print(place)
+                print(self.current_place)
+                print(self.game_history)
+                raise Exception("Invalid starting letter." + place + self.current_place)
 
         self.used_places.add(place)
         self.game_history.append((self.current_player, place))
@@ -298,19 +304,41 @@ def main():
     # ----------------------
     # Load country list
     # ----------------------
-    try:
-        countries = (
-            pd.read_csv("data/countries.csv", header=0)["Country"].dropna().tolist()
-        )
-    except Exception as e:
-        print("Failed to load country list:", e)
-        sys.exit(1)
 
     mode = input("Enter game mode (Country/City/Combined): ").strip().capitalize()
     if mode not in ["Country", "City", "Combined"]:
         print("Invalid game mode. Defaulting to Country.")
         mode = "Country"
-    game = ATLASGame(countries, mode)
+
+    if mode == "City":
+        try:
+            cities = pd.read_csv("data/cities.csv", header=0)["City"].tolist()
+            game = ATLASGame(cities, mode)
+        except Exception as e:
+            print("Failed to load city list:", e)
+            sys.exit(1)
+    elif mode == "Combined":
+        try:
+            countries = pd.read_csv("data/countries.csv", header=0).rename(
+                columns={"Country": "Name"}
+            )
+            cities = pd.read_csv("data/cities.csv", header=0).rename(
+                columns={"City": "Name"}
+            )
+            combined = pd.concat([countries, cities])["Name"].tolist()
+            game = ATLASGame(combined, mode)
+        except Exception as e:
+            print("Failed to load country or city list:", e)
+            sys.exit(1)
+    else:
+        try:
+            countries = pd.read_csv("data/countries.csv", header=0)["Country"]
+            game = ATLASGame(countries, mode)
+        except Exception as e:
+            print("Failed to load country list:", e)
+            sys.exit(1)
+
+    # game = ATLASGame(countries, mode)
 
     strategies = [
         "random",
@@ -438,13 +466,12 @@ def main():
             for i, strat1 in enumerate(strategies):
                 for j, strat2 in enumerate(strategies):
                     p1_wins = 0
-                    wins = []
-                    with ThreadPoolExecutor() as executor:
-                        wins = executor.map(
-                            game.simulate_game, [strat1] * 100, [strat2] * 100
-                        )
-                    wins = [1 if w == 1 else 0 for w in wins]
-                    p1_wins = sum(wins)
+
+                    for _ in range(100):
+                        winner = game.simulate_game(strat1, strat2)
+                        if winner == 1:
+                            p1_wins += 1
+
                     print(f"{strat1} vs {strat2}")
                     print(f"Player 1 wins: {p1_wins}/100 ({p1_wins/100*100:.1f}%)")
                     print(
@@ -514,7 +541,7 @@ def main():
                 fontweight="bold",
             )
             fig.tight_layout()
-            fig.savefig("code/game/win_matrix.png")
+            fig.savefig(f"code/game/{mode}_win_matrix.png")
         # -------------------------------------------------
         # 6. Exit
         # -------------------------------------------------
