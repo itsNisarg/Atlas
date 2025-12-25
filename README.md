@@ -28,10 +28,13 @@ This project uses network science to analyze the game's structure and develop op
 
 ## Repository Structure
 
+```
 Atlas/
 ├── .gitignore
 ├── README.md
 ├── requirements.txt
+│
+├── Gephi/                 # Gephi visualization project files (degree, girvan-newman, path)
 │
 ├── data/
 │   ├── cities.csv           # Processed city data
@@ -90,8 +93,7 @@ Atlas/
   - Strongly Connected Components (SCC)
   - Trophic Levels & Parity Analysis
   - Average Neighbor Degree
-- **Advanced AI Strategies**: 
-  - **Reinforcement Learning (DQN)**: Deep Q-Network agent trained on the game environment
+- **Advanced Strategies**: 
   - Greedy Out-degree
   - Defensive (minimize opponent's options)
   - Parity-based strategies
