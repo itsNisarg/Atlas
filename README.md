@@ -28,7 +28,6 @@ This project uses network science to analyze the game's structure and develop op
 
 ## Repository Structure
 
-```
 Atlas/
 ├── .gitignore
 ├── README.md
@@ -45,14 +44,7 @@ Atlas/
     │   ├── analyse_nodes.ipynb          # Node-level analysis
     │   ├── analyse_edges.ipynb          # Edge-level analysis
     │   ├── winning_paths.txt            # Winning path analysis results
-    │   ├── pagerank/                    # PageRank scores (city, country, combined)
-    │   ├── hits/                        # HITS hubs & authorities scores
-    │   ├── degree/                      # Degree advantage metrics
-    │   ├── between/                     # Betweenness centrality scores
-    │   ├── scc/                         # Strongly connected components data
-    │   ├── trophiclvl/                  # Trophic level metrics
-    │   ├── parity/                      # Parity advantage metrics
-    │   └── avg_neighbour/               # Average neighbor degree metrics
+    │   └── [subfolders: pagerank, hits, degree, between, scc, trophiclvl, parity, avg_neighbour]
     │
     ├── networks/
     │   ├── create_networks.ipynb        # Network construction notebook
@@ -60,25 +52,28 @@ Atlas/
     │   └── graphml/                     # Exported graphs in GraphML format
     │
     ├── visualizations/
-    │   ├── create_plots.ipynb           # Plotting and visualization notebook
-    │   ├── city_net.png                 # City network visualization
-    │   ├── country_net.png              # Country network visualization
-    │   ├── combined_net.png             # Combined network visualization
-    │   ├── combined_net.html            # Interactive network visualization
-    │   └── lib/                         # Visualization libraries
+    │   ├── create_plots.ipynb           # 2D Plotting and visualization
+    │   ├── create_3D_plots.ipynb        # 3D Network visualizations
+    │   ├── combined_net.html            # Interactive 3D network visualization
+    │   ├── 3D/                          # Saved 3D html visualizations
+    │   └── [images: city_net.png, country_net.png, combined_net.png]
     │
     ├── game/
     │   ├── atlas.py                     # Interactive game engine
-    │   ├── win_matrix.png               # Strategy performance heatmap
-    │   ├── City_win_matrix.png          # City-only game results
-    │   ├── Country_win_matrix.png       # Country-only game results
-    │   └── Combined_win_matrix.png      # Combined game results
+    │   └── [images: win_matrix.png, etc.]
     │
     ├── bonus/
-    │   └── link_pred.ipynb              # Link prediction analysis
+    │   ├── rl.ipynb                     # Reinforcement Learning (DQN) agent training
+    │   ├── link_pred.ipynb              # Link prediction analysis
+    │   ├── gnn_model/                   # Graph Neural Network models
+    │   ├── checkpoints/                 # RL model checkpoints
+    │   └── node2vec/                    # Additional node2vec experiments
     │
     ├── community/
-    │   └── detect_community.ipynb       # Community detection analysis
+    │   ├── detect_community.ipynb       # Community detection analysis
+    │   ├── animation.gif                # Community evolution animation
+    │   ├── animation.mp4                # Video of community evolution
+    │   └── communities/                 # Community snapshots
     │
     └── node2vec/
         └── embeddings.ipynb             # Node2vec embeddings
@@ -96,6 +91,7 @@ Atlas/
   - Trophic Levels & Parity Analysis
   - Average Neighbor Degree
 - **Advanced AI Strategies**: 
+  - **Reinforcement Learning (DQN)**: Deep Q-Network agent trained on the game environment
   - Greedy Out-degree
   - Defensive (minimize opponent's options)
   - Parity-based strategies
@@ -105,7 +101,10 @@ Atlas/
   - Human vs AI gameplay
   - AI vs AI simulations
   - Full tournament mode to compare strategies
-- **Rich Visualizations**: Network graphs, degree distributions, and strategy performance heatmaps
+- **Rich Visualizations**: 
+  - 3D Network Graphs (interactive HTML)
+  - Community Evolution Animations
+  - Static structure plots and heatmaps
 
 <p align="center"><img src="code/game/win_matrix.png" alt="Strategy Performance Matrix" width="350"></p>
 
@@ -157,13 +156,14 @@ Atlas/
 
 The project uses the following major libraries (see [requirements.txt](requirements.txt) for full list):
 
-- `networkx` (3.6.1): Graph algorithms and data structures
-- `pandas` (2.3.3), `numpy` (1.26.4): Data manipulation and numerical computing
-- `matplotlib` (3.10.8), `seaborn` (0.13.2): Visualization and plotting
-- `scipy` (1.16.3): Scientific computing
-- `pyvis` (0.3.2): Interactive network visualizations
-- `node2vec` (0.5.0), `gensim` (4.4.0): Graph embedding techniques
-- `python-louvain` (0.16): Community detection
+- `networkx`: Graph algorithms and data structures
+- `pandas`, `numpy`: Data manipulation and numerical computing
+- `torch` (PyTorch): For Reinforcement Learning (DQN) and GNN models
+- `matplotlib`, `seaborn`: Visualization and plotting
+- `scipy`: Scientific computing
+- `pyvis`: Interactive network visualizations
+- `node2vec`, `gensim`: Graph embedding techniques
+- `python-louvain`: Community detection
 - `jupyterlab`: For running analysis notebooks
 
 ---
