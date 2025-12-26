@@ -10,8 +10,9 @@ The project encompasses data scraping, network construction, deep structural ana
 ## Table of Contents
 
 - [About ATLAS](#about-atlas)
-- [Repository Structure](#repository-structure)
 - [Key Features](#key-features)
+- [Key Results: Link Prediction](#key-results-link-prediction)
+- [Repository Structure](#repository-structure)
 - [Environment Setup](#environment-setup)
 - [Usage](#usage)
 - [Project Workflow](#project-workflow)
@@ -26,6 +27,42 @@ This project uses network science to analyze the game's structure and develop op
 
 ---
 
+
+
+## Key Features
+
+- **Multi-Level Modeling**: Analyze games played with just countries, just cities, or a combined global dataset
+- **Comprehensive Graph Metrics**:
+  - PageRank & HITS (Hubs and Authorities)
+  - Betweenness Centrality
+  - Strongly Connected Components (SCC)
+  - Trophic Levels & Parity Analysis
+  - Average Neighbor Degree
+- **Advanced Strategies**: 
+  - Greedy Out-degree
+  - Defensive (minimize opponent's options)
+  - Parity-based strategies
+  - HITS Hubs-based approaches
+  - PageRank-optimized play
+- **Interactive Game Engine**: 
+  - Human vs AI gameplay
+  - AI vs AI simulations
+  - Full tournament mode to compare strategies
+  <p align="center"><img src="code/game/win_matrix.png" alt="Strategy Performance Matrix" width="350"></p>
+
+- **Rich Visualizations**: 
+  - 3D Network Graphs (interactive HTML)
+  - Community Evolution Animations
+  - Static structure plots and heatmaps
+
+## Key Results: Link Prediction
+We successfully trained models to predict valid moves (links) between locations with high accuracy:
+- **Node2Vec + Classifier**: Achieved **100% accuracy** on the test set using random edge hiding.
+- **Graph Neural Network (GraphSAGE)**: Achieved **~98% accuracy** on the test set, demonstrating the model's ability to learn structural rules of the game.
+
+
+---
+
 ## Repository Structure
 
 ```
@@ -34,12 +71,12 @@ Atlas/
 ├── README.md
 ├── requirements.txt
 │
-├── Gephi/                 # Gephi visualization project files (degree, girvan-newman, path)
+├── Gephi/                 # Gephi visualization project files
 │
 ├── data/
 │   ├── cities.csv           # Processed city data
-│   ├── countries.csv         # Processed country data
-│   └── scrap_data.ipynb      # Data collection and cleaning notebook
+│   ├── countries.csv        # Processed country data
+│   └── scrap_data.ipynb     # Data collection and cleaning notebook
 │
 └── code/
     ├── analysis/
@@ -66,11 +103,11 @@ Atlas/
     │   └── [images: win_matrix.png, etc.]
     │
     ├── bonus/
-    │   ├── rl.ipynb                     # Reinforcement Learning (DQN) agent training
-    │   ├── link_pred.ipynb              # Link prediction analysis
+    │   ├── rl.ipynb                     # Reinforcement Learning (DQN) agent [WIP]
+    │   ├── link_pred.ipynb              # Link prediction (Node2Vec & GNN)
     │   ├── gnn_model/                   # Graph Neural Network models
     │   ├── checkpoints/                 # RL model checkpoints
-    │   └── node2vec/                    # Additional node2vec experiments
+    │   └── node2vec/                    # Node2Vec embeddings and models
     │
     ├── community/
     │   ├── detect_community.ipynb       # Community detection analysis
@@ -79,40 +116,8 @@ Atlas/
     │   └── communities/                 # Community snapshots
     │
     └── node2vec/
-        └── embeddings.ipynb             # Node2vec embeddings
+        └── embeddings.ipynb             # Node2vec embedding exploration
 ```
-
----
-
-## Key Features
-
-- **Multi-Level Modeling**: Analyze games played with just countries, just cities, or a combined global dataset
-- **Comprehensive Graph Metrics**:
-  - PageRank & HITS (Hubs and Authorities)
-  - Betweenness Centrality
-  - Strongly Connected Components (SCC)
-  - Trophic Levels & Parity Analysis
-  - Average Neighbor Degree
-- **Advanced Strategies**: 
-  - Greedy Out-degree
-  - Defensive (minimize opponent's options)
-  - Parity-based strategies
-  - HITS Hubs-based approaches
-  - PageRank-optimized play
-- **Interactive Game Engine**: 
-  - Human vs AI gameplay
-  - AI vs AI simulations
-  - Full tournament mode to compare strategies
-- **Rich Visualizations**: 
-  - 3D Network Graphs (interactive HTML)
-  - Community Evolution Animations
-  - Static structure plots and heatmaps
-
-<p align="center"><img src="code/game/win_matrix.png" alt="Strategy Performance Matrix" width="350"></p>
-
----
-
-## Environment Setup
 
 ### Prerequisites
 
