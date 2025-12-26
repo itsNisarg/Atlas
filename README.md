@@ -129,7 +129,7 @@ Atlas/
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/itsNisarg/Atlas.git)
+   git clone (https://github.com/itsNisarg/Atlas.git)
    cd Atlas
    ```
 
